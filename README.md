@@ -1,4 +1,4 @@
-## Codingtest-Cheatsheet
+## Codingtest-Study
 블로그 만들기 귀찮아서 이슈로 정리해둔 코딩테스트 토막지식들
 
 - JavaScript 언어로 코테를 준비하며 풀어봤던 문제와 해결과정 기록들
